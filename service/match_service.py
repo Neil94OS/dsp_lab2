@@ -61,3 +61,4 @@ class MatchVisitTemplate(ABC):
     def format_summary(self, player_index, visit):
         """Primitive operation. You HAVE TO override me, I'm a placeholder."""
         pass
+
