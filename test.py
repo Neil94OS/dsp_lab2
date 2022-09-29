@@ -4,7 +4,7 @@ from service import match_service
 
 dao = darts_match_dao.DartsMatchDao()
 
-match = darts_match.DartsMatch('Dupe')
+match = darts_match.DartsMatch("Dupe")
 
 dao.add(match)
 
